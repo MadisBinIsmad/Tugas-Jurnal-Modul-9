@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xnCeB4dWlYA=",
+  "dgSpecHash": "gQzSMx8/s+w=",
   "success": true,
   "projectFilePath": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\modul9_103082400038\\modul9_103082400038\\modul9_103082400038.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silvi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
-    "C:\\Users\\silvi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\silvi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\silvi\\.nuget\\packages\\scalar.aspnetcore\\2.14.5\\scalar.aspnetcore.2.14.5.nupkg.sha512"
   ],
   "logs": []
 }
